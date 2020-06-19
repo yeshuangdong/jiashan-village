@@ -1,0 +1,131 @@
+//常用方法
+.zyjb(@start, @end) {
+	background: -webkit-linear-gradient(left, @start , @end);
+	background: -o-linear-gradient(right, @start, @end);
+	background: -moz-linear-gradient(right, @start, @end);
+	background: linear-gradient(to right, @start , @end);
+}
+
+.sxjb(@start, @end) {
+	background: -webkit-linear-gradient(@start, @end);
+	background: -o-linear-gradient(@start, @end);
+	background: -moz-linear-gradient(@start, @end);
+	background: linear-gradient(@start, @end);
+}
+
+.placeholder(@color) {
+	&::-webkit-input-placeholder {
+		color: @color;
+	}
+
+	&::-moz-placeholder {
+		color: @color;
+	}
+
+	&:-moz-placeholder {
+		color: @color;
+	}
+
+	&:-ms-input-placeholder {
+		color: @color;
+	}
+}
+
+.translate(@val) {
+	transition: @val;
+	-moz-transition: @val;
+	-webkit-transition: @val;
+	-o-transition: @val;
+}
+
+.transform(@val) {
+	transform: @val;
+	-webkit-transform: @val;
+	-o-transform: @val;
+	-moz-transform: @val;
+}
+
+.animate(@val) {
+	animation: @val;
+	-moz-animation: @val;
+	-webkit-animation: @val;
+	-o-animation: @val;
+}
+
+//常用封装
+.sctouch() {
+	-webkit-overflow-scrolling: touch;
+}
+
+.slh() {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.czjz() {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+}
+
+.c-hover() {
+	&:hover {
+		color: @blue;
+	}
+}
+
+.box() {
+	box-sizing: border-box;
+}
+
+.yj() {
+	border-radius: 50%;
+}
+
+.bgf() {
+	background: #fff;
+}
+
+.btn-hover() {
+	.trans;
+
+	&:hover {
+		opacity: .85;
+	}
+}
+
+.btn-rotate() {
+	.trans;
+
+	&:hover {
+		transform: rotate(-90deg);
+	}
+}
+
+.img-scale() {
+	overflow: hidden;
+
+	>img {
+		.trans
+	}
+
+	&:hover {
+		>img {
+			transform: scale(1.08)
+		}
+	}
+}
+
+.trans() {
+	.translate(all ease-out .3s);
+}
+
+//全局变量
+@green: #2B9B7F;
+@bor: #E0E0E0;
+@base: #202020;
+@blue: #2F75F5;

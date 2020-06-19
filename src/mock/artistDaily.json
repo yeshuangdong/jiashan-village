@@ -1,0 +1,481 @@
+[{
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": [{
+        "name": "男",
+        "number": 324
+    }, {
+        "name": "女",
+        "number": 764
+    }],
+    "fansProvince": {
+        "湖北": 232,
+        "河南": 324,
+        "上海": 654,
+        "北京": 3453,
+        "广东": 1112,
+        "四川": 2231
+    },
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "time": "2020-06-05T06:52:34.484Z",
+    "viewingRate": 0
+}, {
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": {
+        "男": 423,
+        "女": 546
+    },
+    "fansProvince": {
+        "湖北": 232,
+        "河南": 324,
+        "上海": 654,
+        "北京": 3453,
+        "广东": 1112,
+        "四川": 2231
+    },
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "time": "2020-06-06T06:52:34.484Z",
+    "viewingRate": 0
+}, {
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": {
+        "男": 423,
+        "女": 546
+    },
+    "fansProvince": {
+        "湖北": 232,
+        "河南": 324,
+        "上海": 654,
+        "北京": 3453,
+        "广东": 1112,
+        "四川": 2231
+    },
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "time": "2020-06-07T06:52:34.484Z",
+    "viewingRate": 0
+}, {
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": {
+        "男": 423,
+        "女": 546
+    },
+    "fansProvince": {
+        "湖北": 232,
+        "河南": 324,
+        "上海": 654,
+        "北京": 3453,
+        "广东": 1112,
+        "四川": 2231
+    },
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "time": "2020-06-08T06:52:34.484Z",
+    "viewingRate": 0
+}, {
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": {
+        "男": 423,
+        "女": 546
+    },
+    "fansProvince": {
+        "湖北": 232,
+        "河南": 324,
+        "上海": 654,
+        "北京": 3453,
+        "广东": 1112,
+        "四川": 2231
+    },
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "time": "2020-06-09T06:52:34.484Z",
+    "viewingRate": 0
+}, {
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": {
+        "男": 423,
+        "女": 546
+    },
+    "fansProvince": {
+        "湖北": 232,
+        "河南": 324,
+        "上海": 654,
+        "北京": 3453,
+        "广东": 1112,
+        "四川": 2231
+    },
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "time": "2020-06-10T06:52:34.484Z",
+    "viewingRate": 0
+}, {
+    "doubanId": "string",
+    "fansAge": [{
+        "name": "<19",
+        "number": 100
+    }, {
+        "name": "20-29",
+        "number": 324
+    }, {
+        "name": "30-39",
+        "number": 123
+    }, {
+        "name": "40-49",
+        "number": 155
+    }, {
+        "name": ">50",
+        "number": 345
+    }],
+    "fansCity": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "fansGender": [{
+        "name": "男",
+        "number": 324
+    }, {
+        "name": "女",
+        "number": 764
+    }],
+    "fansProvince": [{
+        "name": "湖北",
+        "number": 2334
+    }, {
+        "name": "上海",
+        "number": 123
+    }, {
+        "name": "广东",
+        "number": 435
+    }, {
+        "name": "江苏",
+        "number": 878
+    }],
+    "fansRegion": {
+        "additionalProp1": 0,
+        "additionalProp2": 0,
+        "additionalProp3": 0
+    },
+    "socialCampaign": {
+        "抖音": 123,
+        "小红书": 456,
+        "微博": 243
+    },
+    "fever": [{
+            "platform": "baidu",
+            "number": 1000
+        },
+        {
+            "platform": "weibo",
+            "number": 601
+        }
+    ],
+    "name": "string",
+    "fansPurchasePower": [{
+        "platform": "taobao",
+        "number": 233
+    }, {
+        "platform": "tmall",
+        "number": 345
+    }],
+    "platformRankList": [{
+        "number": 97.2,
+        "platform": "dingtou",
+        "rank": 1
+    }, {
+        "number": 97.2,
+        "platform": "dingtou",
+        "rank": 1
+    }, {
+        "number": 97.2,
+        "platform": "dingtou",
+        "rank": 1
+    }, {
+        "number": 97.2,
+        "platform": "dingtou",
+        "rank": 1
+    }, {
+        "number": 97.2,
+        "platform": "dingtou",
+        "rank": 1
+    }],
+    "time": "2020-06-11T06:52:34.484Z",
+    "viewingRate": 0
+}]
