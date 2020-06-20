@@ -1,6 +1,6 @@
 <template>
   <div :class="['layout', { collapse: isCollapse }]">
-    <top class="top" :collapse.sync="isCollapse" />
+    <top class="top" />
     <left-menu class="left-menu" :collapse.sync="isCollapse" />
     <div class="cont">
       <div class="page-tab clearfix">

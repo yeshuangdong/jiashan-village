@@ -9,7 +9,6 @@
         <img class="logo-title" :src="titleThird" alt="水韵嘉善" />
         <img class="logo-title" :src="titleFouth" alt="水韵嘉善" />
       </div>
-      <a @click="toggle" :class="collapse ? 'ali-icon-icon-test3' : 'ali-icon-icon-test2'"></a>
     </div>
     <i class="el-icon-switch-button fr" @click="logout"></i>
     <i class="el-icon-bell fr"></i>
@@ -29,12 +28,6 @@
 
 <script>
 export default {
-  props: {
-    collapse: {
-      type: Boolean,
-      default: false,
-    },
-  },
   data() {
     return {
       logoSrc: require('@/assets/img/logo.png'),
@@ -46,9 +39,6 @@ export default {
   },
   methods: {
     logout() {},
-    toggle() {
-      this.$emit('update:collapse', !this.collapse)
-    },
   },
 }
 </script>

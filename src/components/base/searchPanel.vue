@@ -36,6 +36,8 @@ export default {
   .head-title {
     padding: 8px;
     border-bottom: 1px solid #e5e5e5;
+    font-size: 18px;
+    color: #333;
     .oper-container {
       float: right;
     }
@@ -43,12 +45,12 @@ export default {
   .search-form {
     margin: 20px 0 0 0;
     position: relative;
-    padding: 0 250px 0 0;
+    padding: 0 180px 0 0;
     .search-form-operation {
       position: absolute;
       top: 0;
       right: 0;
-      width: 240px;
+      width: 170px;
     }
   }
 }
