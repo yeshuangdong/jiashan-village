@@ -1,0 +1,13 @@
+@hostname = 47.102.145.51
+@port = 7779
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+@createdAt = {{$datetime iso8601}}
+
+###
+
+GET http://{{host}}/authentication/captcha/id?t={{createdAt}} HTTP/1.1
+Device-Id: 84554ae5ebc9bdaaa6318204557ddb72
+Device-Type: 1
+content-type: {{contentType}}
+

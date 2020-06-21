@@ -57,14 +57,14 @@ export default {
     right: -8px;
     width: 8px;
     height: 50px;
-    background-color: #62cc71;
+    background-color: #2c9b7e;
     &::before {
       position: absolute;
       top: -8px;
       content: '';
       width: 0;
       height: 0;
-      border-bottom: 8px solid #62cc71;
+      border-bottom: 8px solid #2c9b7e;
       border-right: 8px solid transparent;
     }
     &::after {
@@ -73,7 +73,7 @@ export default {
       content: '';
       width: 0;
       height: 0;
-      border-top: 8px solid #62cc71;
+      border-top: 8px solid #2c9b7e;
       border-right: 8px solid transparent;
     }
     i {

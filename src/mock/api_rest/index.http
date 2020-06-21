@@ -1,0 +1,40 @@
+@hostname = test.zjinsl.com
+@port = 80
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+@createdAt = {{$datetime iso8601}}
+
+### 获取当前地区统计详情
+POST http://{{host}}/bigdata/getLastDateStatistic HTTP/1.1
+content-type: {{contentType}}
+
+{
+  "regionId":76
+}
+
+
+### 七天正确率折线图
+POST http://{{host}}/bigdata/getDateRightRateList HTTP/1.1
+content-type: {{contentType}}
+
+{
+  "startTime": "2020-06-15",
+  "endTime": "2020-06-15",
+  "regionId": 11
+}
+
+### 各村庄正确率
+POST http://{{host}}/bigdata/getNextRegionRightRateList HTTP/1.1
+content-type: {{contentType}}
+
+{
+  "regionId":76
+}
+
+### 获取垃圾站点列表
+POST http://{{host}}/bigdata/getRubbishSiteList HTTP/1.1
+content-type: {{contentType}}
+
+{
+  "regionId":76
+}
